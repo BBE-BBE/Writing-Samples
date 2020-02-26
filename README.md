@@ -1,3 +1,3 @@
 # Writing Samples
 Research, Fact Sheets, Topic Assessments
-APA Format
+(APA Format)
