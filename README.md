@@ -1,4 +1,3 @@
-# Writing-Samples
-
-Graduate Writing Samples: Research, Fact Sheets, Topic Assessments
+# Writing Samples
+Research, Fact Sheets, Topic Assessments
 APA Format
