@@ -1,3 +1,2 @@
 # Writing Samples
-Research, Fact Sheets, Topic Assessments
-(APA Format)
+Research, Fact Sheets, Argumentative, APA
